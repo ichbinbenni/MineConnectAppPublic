@@ -49,4 +49,4 @@ MineConnect currently requires two open ports: 4711 and 4713, so make sure both 
 
 #### No push notification received:
 
-You have to allow it in the app and you can set the type of notifications in the app. Another player must join (or leave or die or write a message) to receive a notification. You will not receive notifications for yourself.
+You have to allow it in the app and you can set the type of notifications in the app. Another player must join (or leave or die or write a message) to receive a notification. You will not receive notifications for yourself or when you are online in Minecraft.
