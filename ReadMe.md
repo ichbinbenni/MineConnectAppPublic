@@ -39,3 +39,12 @@ It is the connection to Minecraft. It monitors everything and stays in touch wit
 
 Make sure you start MineConnectServer from the server root folder.
 (So don't write: java -jar Path/To/Folder/MineConnectServer.jar)
+
+
+### Troubleshoting
+
+#### Can't connect Server and Plugin:
+Currently MineConnect needs two open ports: 4711 and 4713. So make sure both ports are open.
+
+#### Don't receive Push-Notification:
+You reveice Push-Notification if you enabled it in your settings on your app. To reveice a notification a diffrent player has to join(or leave or die or write a message). You don't get notifications for your self. 
