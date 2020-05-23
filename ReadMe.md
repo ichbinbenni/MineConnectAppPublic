@@ -63,5 +63,4 @@ Android version will be available later this summer.
 To add a new server you need to join your server in Minecraft. Execute the command ```/registerMe```. This will give you a four-digit one time password. So you don't need to remember it. Enter this password with the server address and your username into the MineConnect app.
 
 
--
 ### Made with 􀊵 by Benedikt Spohr, Jonas Görgen and Roman Kramme
