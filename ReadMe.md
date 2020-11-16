@@ -14,7 +14,7 @@
     </a>
 </p>
  
-**MineConnect** is an app for ios and a plugin that allows you to monitor and interact with your Minecraft sever from everywhere using your smartphone.  
+**MineConnect** is an app for ios and a plugin that allows you to monitor and interact with your Minecraft server from everywhere using your smartphone.  
 This is an early version. We plan to listen to your feedback, so we can build a nice and useful App together.  
 On this site you can share your [feedback and report bugs](https://github.com/ichbinbenni/MineConnectAppPublic/issues). Just open an issue and tag your category. Like bug or feature request.
 
@@ -24,7 +24,7 @@ On this site you can share your [feedback and report bugs](https://github.com/ic
 
 #### 1. Plugin
 
-Download the plugin from our [website](https://mineconnect.ibb-games.de/versions.html).
+Download the plugin from our [website](https://mineconnect.de/versions.html).
 
 Just drag & drop the plugin file into your plugins folder. MineConnect needs Port 4711 - so make sure the port is open.
 
@@ -66,6 +66,3 @@ Android - Coming soon
 It costs $99 a year to publish an app to the AppStore. The app is free and without ads. It would be nice if you support this project and help me not to pay for making this app.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O31JZNP)
-
--
-### Made with 􀊵 by Benedikt Spohr, Jonas Görgen and Roman Kramme
