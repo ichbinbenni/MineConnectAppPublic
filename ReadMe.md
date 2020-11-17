@@ -53,6 +53,7 @@ To add a new server you need to join your server in Minecraft. Execute the comma
 - You can adjust everything easy from the app - no property file or commands you have to learn.
 - White/Blacklist support: MineConnect can only be used by users that are on your whitelist (if enabled) or not on your blacklist.
 - All operators are also admins for MineConnect.
+- Use ```/setPort 4711``` to change the port from inside Minecraft.
 
 
 
