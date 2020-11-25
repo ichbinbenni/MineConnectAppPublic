@@ -26,12 +26,11 @@ On this site you can share your [feedback and report bugs](https://github.com/ic
 
 Download the plugin from our [website](https://mineconnect.de/versions.html).
 
-Just drag & drop the plugin file into your plugins folder. MineConnect needs Port 4711 - so make sure the port is open.
+Just drag & drop the plugin file into your plugins folder. MineConnect needs Port 4711 - so make sure the port is open. You can change the port with the command ```/setPort number```.
 
 
 #### 2. App
-Download the app from the [Apple AppStore®]((https://apps.apple.com/de/app/mineconnect/id1507676445)).  
-Android version will be available soon.
+Download the app from the [Apple AppStore®]((https://apps.apple.com/de/app/mineconnect/id1507676445)) or for [Android](https://play.google.com/store/apps/details?id=de.coloniapp.mineconnect).
 
 To add a new server you need to join your server in Minecraft. Execute the command ```/registerMe```. This will give you a four-digit one time password. So you don't need to remember it. Enter this password with the server address and your username into the MineConnect app.
 
@@ -61,7 +60,7 @@ To add a new server you need to join your server in Minecraft. Execute the comma
 [iOS-App](https://apps.apple.com/de/app/mineconnect/id1507676445)  
 [Website](https://mineconnect.de)  
 [Spigot](https://www.spigotmc.org/resources/mineconnect.77957/)  
-Android - Coming soon
+[Android](https://play.google.com/store/apps/details?id=de.coloniapp.mineconnect)
 
 ### Support
 It costs $99 a year to publish an app to the AppStore. The app is free and without ads. It would be nice if you support this project and help me not to pay for making this app.
