@@ -27,6 +27,7 @@ On this site you can share your [feedback and report bugs](https://github.com/ic
 ## Setup
 
 ### Installation
+MineConnect is currently for small to mid sized server. There are problems if your server has more then ~300 users. Then it is not possible to set push notifications inside the apps. We are working on an update for this problem.
 
 #### 1. Plugin
 
